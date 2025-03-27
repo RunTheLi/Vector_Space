@@ -27,7 +27,7 @@ Existence of a zero vector: There is a vector
 0∈𝑉0∈V such that 𝑣+0=𝑣v+0=v for all 𝑣∈𝑉v∈V.
 
 Existence of additive inverses: For every 
-𝑣∈𝑉v∈V, there exists −𝑣−v such that 𝑣+(−𝑣)=0v+(−v)=0.
+𝑣∈𝑉v∈V, there exists −𝑣−v such that 𝑣+(−𝑣)=0.
 
 3. Scalar Multiplication Properties
 Distributivity over vector addition: 
